@@ -3,3 +3,5 @@
 *.h5
 *.model
 best_checkpoint
+*.tar
+*.pth
